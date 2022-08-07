@@ -3,9 +3,8 @@ title: Digital Garden
 last_modified_at: 2022-08-05
 backlinks:
    -
-    url: ''
-    title: Digital Garden Homepage
-
+    url: 'static-website-jekyll-github-pages'
+    title: Static Jekyll website hosted on GitHub Pages
 ---
 
 The Digital Garden is not a blog.

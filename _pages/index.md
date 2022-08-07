@@ -24,7 +24,7 @@ Before I fill it with useful content, here are seeds of a [digital garden]({% li
 
 All the notes so far:
 - [Digital Garden]({% link _notes/digital-garden.md %}){: .internal-link}
-
+- [Static Jekyll website hosted on GitHub Pages]({% link _notes/static-website-jekyll-github-pages.md %}){: .internal-link}
 
 <style>
   .wrapper {
