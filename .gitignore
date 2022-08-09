@@ -1,18 +1,28 @@
-# Generated website directory
-_site/
+# VuePress files
+.temp
+.cache
+docs/.vuepress/.temp/
+docs/.vuepress/.cache/
+docs/.vuepress/dist/
 
-# Sass cache
-.sass-cache/
+# Dist files
+dist/
+lib/
 
-# Jekyll cache & metadata
-.jekyll-cache/
-.jekyll-metadata
+# Test temp files
+**/__fixtures__/.temp/
 
-# Notes graph metadata
-#_includes/notes_graph.json
+# Test coverage files
+coverage/
 
-# Obsidian config
-.obsidian/
+# Node modules
+node_modules/
 
-# Vendor (?)
-vendor
+# MacOS Desktop Services Store
+.DS_Store
+
+# Log files
+*.log
+
+# Typescript build info
+*.tsbuildinfo

@@ -1,0 +1,26 @@
+{
+  "name": "notes.arapov.net",
+  "version": "1.0.0",
+  "description": "Notes and knowledge base",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slava-arapov/notes.arapov.net.git"
+  },
+  "author": "Slava Arapov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slava-arapov/notes.arapov.net/issues"
+  },
+  "homepage": "https://github.com/slava-arapov/notes.arapov.net#readme",
+  "devDependencies": {
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.49",
+    "@vuepress/plugin-shiki": "^2.0.0-beta.49",
+    "vuepress": "^2.0.0-beta.49"
+  }
+}

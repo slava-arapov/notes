@@ -1,17 +1,13 @@
 # notes.arapov.net
 
-This is the source for my personal notes website, [notes.arapov.net](https://notes.arapov.net/). It is powered by [Jekyll](http://jekyllrb.com), a static site generator. It is hosted on [GitHub Pages](https://pages.github.com/).
+This is the source for my personal notes website, [notes.arapov.net](https://notes.arapov.net/). It is powered by [VuePress 2](https://v2.vuepress.vuejs.org/), a static site generator. It is hosted on [GitHub Pages](https://pages.github.com/).
 
 ## Local set up
 
 1. Clone the repository and navigate into it
-1. Run `bundle` to install dependencies
-1. Run `bundle exec jekyll serve` to serve and rebuild the site any time a source file changes
-1. Browse to http://localhost:4000
-
-## Credits
-This website is built using **[Maxime Vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template/)** layout, styles and page previews script.
-
+1. Run `npm install` to install dependencies
+1. Run `npm run docs:dev` to serve and rebuild the site any time a source file changes
+1. Browse to http://localhost:8080
 
 ## License
 
