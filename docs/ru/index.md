@@ -6,18 +6,14 @@ description: Мой цифровой сад
 ---
 # Мои заметки 🌱
 
-Hi! 👋
+Привет! 👋
 
-My name is Slava and I am a Full Stack web developer.
+Меня зовут Слава, я Full Stack веб-разработчик.
 
-Welcome to my notes storage. I hope it will become a knowledge base someday.
+Это моё хранилище заметок. Надеюсь, однажды оно превратится в приличную базу знаний.
 
-I write for myself on a variety of topics, but some notes may be useful to someone.
+Я пишу сам для себя на разные темы, но возможно, заметки могут быть полезны кому-нибудь ещё.
 
-Before I fill it with useful content, here are seeds of a [digital garden](/writing/digital-garden.md).
+Пока это хранилище полупустое, тут только ростки [цифрового сада](/ru/writing/digital-garden.md).
 
-> You can start with **[changelog](/changelog.md)** to see last changes.
-
-All the notes so far:
-- [Digital Garden](/writing/digital-garden.md)
-- [VuePress website hosted on GitHub Pages](/writing/static-website-vuepress-github-pages.md)
+> Можно посмотреть **[changelog](/changelog.md)**, в нём я отмечаю изменения на сайте.
