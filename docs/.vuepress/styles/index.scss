@@ -7,3 +7,12 @@
     min-width: 184.66px;
   }
 }
+
+ul.contains-task-list {
+  padding-left: 0;
+}
+
+.contains-task-list li
+{
+  list-style-type:none;
+}

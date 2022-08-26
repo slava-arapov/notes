@@ -103,6 +103,10 @@ export default defineUserConfig({
     },
   },
 
+	extendsMarkdown: md => {
+	  md.use(require('markdown-it-task-lists'))
+	},
+
   // use plugins
   plugins: [
     docsearchPlugin({
