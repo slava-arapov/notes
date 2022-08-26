@@ -4,10 +4,17 @@ title: Цифровой сад
 ---
 # Цифровой сад
 
-The Digital Garden is not a blog.
+Цифровой сад — это не блог.
 
-The entries are constantly being improved and supplemented.
+Здесь все записи постоянно меняются, улучшаются, дополняются.
 
-Notes can be crude and unfinished - like this one.
+заметки могут быть сырыми и незавершёнными — как эта.
 
-You can read about digital gardens [here](https://tomcritchlow.com/2019/02/17/building-digital-garden/).
+[Тут](https://tomcritchlow.com/2019/02/17/building-digital-garden/) можно почитать про цифровые сады подробнее.
+
+## Ссылки
+
+### Цифровые сады
+- [Everything I Know](https://wiki.nikiv.dev/) — Nikita Voloboev
+- [your friend Joel's digital garden](https://joelhooks.com/) — Joel Hooks
+- [Цифровой садик](https://agnessa.pp.ru/) — Агнесса Буковская

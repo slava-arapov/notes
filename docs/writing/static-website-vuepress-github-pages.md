@@ -6,15 +6,15 @@ title: VuePress website hosted on GitHub Pages
 
 I started Jekyll project first to host on Github Pages but GitHub [released new GitHub Actions integrations on July 27th, 2022](https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/) so I moved to VuePress.
 
-You can use GitHub Actions to build any static website and GitHub Pages to host it. 
+You can use GitHub Actions to build any static website and GitHub Pages to host it quick and for free. 
 
-GitHub actions and VuePress documentation is great so I list the sequence of steps briefly.
+GitHub Actions and VuePress documentation is great so I list the sequence of steps briefly.
 
 ## Static website setup instructions
 1. Register (sub)domain and set DNS CNAME record to `<your-username>.github.io`
 1. Create VuePress site and make a repository
 1. Host the repository on GitHub
-1. Add new workflow at GitHub actions tab according to [VuePress Guide](https://v2.vuepress.vuejs.org/guide/deployment.html#github-pages)
+1. Add new workflow at GitHub Actions tab according to [VuePress Guide](https://v2.vuepress.vuejs.org/guide/deployment.html#github-pages)
 1. If you use sample config and custom domain add `fqdn` parameter in the last `docs` job step
     ```yml{10-11}
     # please check out the docs of the workflow for more details
@@ -29,7 +29,7 @@ GitHub actions and VuePress documentation is great so I list the sequence of ste
       # domain name to set in CNAME file
       fqdn: notes.arapov.net
     ```
-1. GitHub action will build and push updated static site to `gh-pages` branch
+1. GitHub action will build and push updated static site to `gh-pages` branch at any commit
 1. Check your repository Settings -> Pages page and select `gh-pages` branch to deploy from
 
 ## Links
