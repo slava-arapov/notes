@@ -45,7 +45,8 @@ title: Coding интервью
 - [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) — задачи, разбитые по группам (2019)
 - [Coding interview study plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/) — обновлённый список (2022)
 - [Grind 75](https://www.techinterviewhandbook.org/grind75) — Конструктор персонального плана
-
+- [Algorithms-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript) — Algorithms resolution in Javascript. Leetcode - Geeksforgeeks - Careercup, Ignacio Chiazzo Cardarello, Github
+- [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges) — Sadanand Pai, GitHub (2022)
 
 ### Ссылки на сервисы с задачами
 - [LeetCode](https://leetcode.com)

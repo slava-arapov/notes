@@ -33,6 +33,7 @@ export const sidebarRu: SidebarConfig = {
             '/ru/work/interview/behavioral.md',
           ],
         },
+        '/ru/work/offer.md',
         '/ru/work/freelance.md',
       ],
     },

@@ -9,6 +9,14 @@ title: Changelog
 - **Updated** 
   - [Digital Garden](/writing/digital-garden.md) / [Цифровой сад](/ru/writing/digital-garden.md)
   - [VuePress website hosted on GitHub Pages](/writing/static-website-vuepress-github-pages.md) / [Как разместить сайт VuePress на GitHub Pages](/ru/writing/static-website-vuepress-github-pages.md)
+  - [Работа](/ru/work/) 🇷🇺
+  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
+  - [Резюме](/ru/work/cv.md) 🇷🇺
+  - [Собеседование](/ru/work/interview/) 🇷🇺
+  - [Ответы на мелкие вопросы](/ru/work/interview/trivia.md) 🇷🇺
+  - [Coding интервью](/ru/work/interview/coding.md) 🇷🇺
+  - [Behavioral интервью](/ru/work/interview/behavioral.md) 🇷🇺
+  - [Оффер и зарплата](/ru/work/offer.md) 🇷🇺
 
 - **Translated** 
   - [Digital Garden](/writing/digital-garden.md) -> [Цифровой сад](/ru/writing/digital-garden.md) 🇷🇺
