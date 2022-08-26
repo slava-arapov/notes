@@ -10,6 +10,9 @@ export const sidebarEn: SidebarConfig = {
       text: 'Work',
       link: '/work/',
       collapsible: true,
+      children: [
+        '/work/freelance.md',
+      ],
     },
     {
       text: 'Writing',

@@ -3,6 +3,9 @@ lang: en-US
 title: Changelog
 ---
 ## 2022-08-26 — New notes and translations
+- **Added** 
+  - [Freelance](/work/freelance.md) / [Фриланс](/ru/work/freelance.md)
+  
 - **Updated** 
   - [Digital Garden](/writing/digital-garden.md) / [Цифровой сад](/ru/writing/digital-garden.md)
   - [VuePress website hosted on GitHub Pages](/writing/static-website-vuepress-github-pages.md) / [Как разместить сайт VuePress на GitHub Pages](/ru/writing/static-website-vuepress-github-pages.md)
