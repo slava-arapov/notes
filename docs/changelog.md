@@ -2,6 +2,11 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-08-31 — New notes
+- **Added**
+  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/)
+  - [DevOps](/software-engineering/devops) / [DevOps (ru)](/ru/software-engineering/devops)
+
 ## 2022-08-26 — New notes and translations
 - **Added** 
   - [Freelance](/work/freelance.md) / [Фриланс](/ru/work/freelance.md)

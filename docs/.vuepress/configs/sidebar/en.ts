@@ -7,6 +7,23 @@ export const sidebarEn: SidebarConfig = {
       link: '/',
     },
     {
+      text: 'Software Engineering',
+      link: '/software-engineering/',
+      collapsible: true,
+      children: [
+        {
+          text: 'DevOps',
+          link: '/software-engineering/devops/',
+          collapsible: true,
+        },
+        {
+          text: 'GitHub',
+          link: '/software-engineering/github.md',
+          collapsible: true,
+        },
+      ],
+    },
+    {
       text: 'Work',
       link: '/work/',
       collapsible: true,

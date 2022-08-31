@@ -7,6 +7,23 @@ export const sidebarRu: SidebarConfig = {
       link: '/ru/',
     },
     {
+      text: 'Разработка',
+      link: '/ru/software-engineering/',
+      collapsible: true,
+      children: [
+        {
+          text: 'DevOps',
+          link: '/ru/software-engineering/devops/',
+          collapsible: true,
+        },
+        {
+          text: 'GitHub',
+          link: '/ru/software-engineering/github.md',
+          collapsible: true,
+        },
+      ],
+    },
+    {
       text: 'Пишу',
       link: '/ru/writing/',
       collapsible: true,
