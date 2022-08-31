@@ -6,9 +6,12 @@ title: Changelog
 - **Added**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/)
   - [DevOps](/software-engineering/devops/) / [DevOps (ru)](/ru/software-engineering/devops/)
+  - [GitHub](/software-engineering/github.md) / [GitHub (ru)](/ru/software-engineering/github.md)
   - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/)
   - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md)
   - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md)
+  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/)
+  - [PHP](/software-engineering/javascript/) / [PHP (ru)](/ru/software-engineering/javascript/)
 
 ## 2022-08-26 — New notes and translations
 - **Added** 

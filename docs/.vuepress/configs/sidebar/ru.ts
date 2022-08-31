@@ -30,6 +30,16 @@ export const sidebarRu: SidebarConfig = {
           link: '/ru/software-engineering/github.md',
           collapsible: true,
         },
+        {
+          text: 'JavaScript',
+          link: '/ru/software-engineering/javascript/',
+          collapsible: true,
+        },
+        {
+          text: 'PHP',
+          link: '/ru/software-engineering/php/',
+          collapsible: true,
+        },
       ],
     },
     {
