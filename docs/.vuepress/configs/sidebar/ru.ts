@@ -17,6 +17,15 @@ export const sidebarRu: SidebarConfig = {
           collapsible: true,
         },
         {
+          text: 'Front end',
+          link: '/ru/software-engineering/front-end/',
+          collapsible: true,
+          children: [
+            '/ru/software-engineering/front-end/html.md',
+            '/ru/software-engineering/front-end/vue.md',
+          ],
+        },
+        {
           text: 'GitHub',
           link: '/ru/software-engineering/github.md',
           collapsible: true,

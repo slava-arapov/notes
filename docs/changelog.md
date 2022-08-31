@@ -5,7 +5,10 @@ title: Changelog
 ## 2022-08-31 — New notes
 - **Added**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/)
-  - [DevOps](/software-engineering/devops) / [DevOps (ru)](/ru/software-engineering/devops)
+  - [DevOps](/software-engineering/devops/) / [DevOps (ru)](/ru/software-engineering/devops/)
+  - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/)
+  - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md)
+  - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md)
 
 ## 2022-08-26 — New notes and translations
 - **Added** 
