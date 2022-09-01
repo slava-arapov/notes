@@ -2,6 +2,12 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-09-01 — New notes
+- **Added**
+  - [Фитнес](/ru/fitness/) 🇷🇺
+  - [Упражнения](/ru/fitness/exercises.md) 🇷🇺
+  - [Растяжка](/ru/fitness/stretching.md) 🇷🇺
+
 ## 2022-08-31 — New notes
 - **Added**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/)

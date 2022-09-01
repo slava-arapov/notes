@@ -73,5 +73,14 @@ export const sidebarRu: SidebarConfig = {
         '/ru/work/freelance.md',
       ],
     },
+    {
+      text: 'Фитнес',
+      link: '/ru/fitness/',
+      collapsible: true,
+      children: [
+        '/ru/fitness/exercises.md',
+        '/ru/fitness/stretching.md',
+      ],
+    },
   ],
 }
