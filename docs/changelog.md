@@ -4,6 +4,7 @@ title: Changelog
 ---
 ## 2022-09-05 — Notes updated
 - **Updated**
+  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/)
   - [Работа](/ru/work/) 🇷🇺
   - [Поиск работы](/ru/work/job-search.md) 🇷🇺
   - [Собеседование](/ru/work/interview/) 🇷🇺

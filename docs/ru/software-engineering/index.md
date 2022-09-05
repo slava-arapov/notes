@@ -5,6 +5,7 @@ title: Разработка
 # Разработка
 
 ## Ссылки
+- [DEV Community](https://dev.to/)
 - [Developer Roadmaps](https://roadmap.sh/) — Планы по развитию в веб-разработке от Kamran Ahmed
 - [freeCodeCamp](https://www.freecodecamp.org/) — отличный сервис, чтобы научиться разработке
 

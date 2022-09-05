@@ -5,6 +5,7 @@ title: Software Engineering
 # Software Engineering
 
 ## Links
+- [DEV Community](https://dev.to/)
 - [Developer Roadmaps](https://roadmap.sh/) — Roadmaps to becoming a developer by Kamran Ahmed
 - [freeCodeCamp](https://www.freecodecamp.org/) — nice and free service to start from 
 
