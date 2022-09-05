@@ -72,6 +72,7 @@ PHP:
 - [Otta](https://otta.com/)
 - [Flatworld](https://flatworld.co/)
 - [Glassdoor](https://www.glassdoor.com/Job/)
+- [Web3 Jobs](https://web3.career/)
 - [Transparent Hiring](https://www.transparent-hiring.com/ru/) — релокация в Германию
 - [Telegram-канал «Remocate: удалёнка и релокация 🇺🇦 🇷🇺 🇧🇾»](https://t.me/evacuatejobs)
 - [Telegram-канал «Удаленная работа»](https://t.me/remote_job_offers)

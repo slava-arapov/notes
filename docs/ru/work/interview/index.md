@@ -82,6 +82,7 @@ title: Собеседование
 - [Сравнительная таблица для выбора между компаниями (с вопросами)](https://goo.gl/hNi9a6) — АйТиБорода (2018)
 - [Тред про дизайн процесса интервью для разработчиков от рекрутера Microsoft](https://twitter.com/mr_mig_by/status/1554185664920526851) — Alexey Migutsky, Twitter
 - [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide) — JavaSciript, Front End, Comp Sci, Daniel Del Core, GitHub
+- [Get Your Dream Developer Job by Avoiding These Basic 13 Take-Home Assignment Mistakes](https://levelup.gitconnected.com/take-home-assignment-mistakes-which-will-guarantee-someone-else-gets-the-job-36bcee1cec1d) — Ekrem Aktaş, Meduum (2020)
 
 ### YouTube
 - [#МыПерезвоним, плейлист с записями](https://www.youtube.com/watch?v=YzEUQXePaVE&list=PL0FGkDGJQjJFExMylFB8_wZf3H9E1-K-2) — Archakov Blog, Archakov Dennis (2021)

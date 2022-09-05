@@ -2,6 +2,12 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-09-05 — Notes updated
+- **Updated**
+  - [Работа](/ru/work/) 🇷🇺
+  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
+  - [Собеседование](/ru/work/interview/) 🇷🇺
+
 ## 2022-09-01 — New notes
 - **Added**
   - [Фитнес](/ru/fitness/) 🇷🇺
