@@ -5,6 +5,7 @@ title: Changelog
 ## 2022-09-06 — New notes
 - **Added**
   - [Здоровье](/ru/health/) 🇷🇺
+  - [Менеджмент](/ru/management/) 🇷🇺
   - [Эффективность](/ru/productivity/) 🇷🇺
 
 ## 2022-09-05 — Notes updated

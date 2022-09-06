@@ -12,6 +12,11 @@ export const sidebarRu: SidebarConfig = {
       collapsible: true,
     },
     {
+      text: 'Менеджмент',
+      link: '/ru/management/',
+      collapsible: true,
+    },
+    {
       text: 'Разработка',
       link: '/ru/software-engineering/',
       collapsible: true,
