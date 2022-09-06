@@ -87,5 +87,10 @@ export const sidebarRu: SidebarConfig = {
         '/ru/fitness/stretching.md',
       ],
     },
+    {
+      text: 'Эффективность',
+      link: '/ru/productivity/',
+      collapsible: true,
+    },
   ],
 }
