@@ -2,6 +2,10 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-09-06 — New notes
+- **Added**
+  - [Здоровье](/ru/health/) 🇷🇺
+
 ## 2022-09-05 — Notes updated
 - **Updated**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/)

@@ -7,6 +7,11 @@ export const sidebarRu: SidebarConfig = {
       link: '/ru/',
     },
     {
+      text: 'Здоровье',
+      link: '/ru/health/',
+      collapsible: true,
+    },
+    {
       text: 'Разработка',
       link: '/ru/software-engineering/',
       collapsible: true,
