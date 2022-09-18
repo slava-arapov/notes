@@ -106,6 +106,14 @@ export const sidebarRu: SidebarConfig = {
       collapsible: true,
       children: [
         '/ru/productivity/smartphone.md',
+        {
+          text: 'Цели',
+          link: '/ru/productivity/goals/',
+          collapsible: true,
+          children: [
+            '/ru/productivity/goals/perfect-day.md',
+          ],
+        },
       ],
     },
   ],
