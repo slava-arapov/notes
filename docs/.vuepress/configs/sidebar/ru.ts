@@ -3,6 +3,14 @@ import type { SidebarConfig } from '@vuepress/theme-default'
 export const sidebarRu: SidebarConfig = {
   '/': [
     {
+      text: 'Дом и быт',
+      link: '/ru/home/',
+      collapsible: true,
+      children: [
+        '/ru/home/konmari.md',
+      ],
+    },
+    {
       text: 'Заметки',
       link: '/ru/',
     },
