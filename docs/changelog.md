@@ -6,6 +6,8 @@ title: Changelog
 - **Added**
   - [Дом и быт](/ru/home/) 🇷🇺
   - [Магическая уборка Мари Кондо](/ru/home/konmari.md) 🇷🇺
+  - [Смартфон](/ru/productivity/smartphone.md) 🇷🇺
+
 ## 2022-09-06 — New notes
 - **Added**
   - [Здоровье](/ru/health/) 🇷🇺

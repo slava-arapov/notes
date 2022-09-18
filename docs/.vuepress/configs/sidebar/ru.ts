@@ -104,6 +104,9 @@ export const sidebarRu: SidebarConfig = {
       text: 'Эффективность',
       link: '/ru/productivity/',
       collapsible: true,
+      children: [
+        '/ru/productivity/smartphone.md',
+      ],
     },
   ],
 }
