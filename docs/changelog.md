@@ -2,6 +2,10 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-09-21 — Notes updated
+- **Updated**
+  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
+
 ## 2022-09-18 — Old blog notes
 - **Added**
   - [Дом и быт](/ru/home/) 🇷🇺

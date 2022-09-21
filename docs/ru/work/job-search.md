@@ -45,18 +45,41 @@ title: Поиск работы
 - [LinkedIn](https://www.linkedin.com)
 - [Хабр Карьера](https://career.habr.com)
 - [Буду](https://budu.jobs/) — сервис выбора работы
+- [Geekjob](https://geekjob.ru/) — сервис анонимного поиска работы
+- [SuperJob](https://superjob.ru/)
+- [Работа.ру](https://rabota.ru/)
+- [hh.ru](https://hh.ru)
+- [Finder](https://finder.vc/) — трудоустройство и поиск удаленной работы
+- [Dистанция](https://distantsiya.ru/)
+- [Вакансии в IT — Tproger](https://tproger.ru/jobs/)
+- [Вакансии — vc.ru](https://vc.ru/job)
+- [Вакансии для разработчиков — Hexlet CV](https://cv.hexlet.io/vacancies)
 - [Telegram-бот «getmatch — бот с IT-вакансиями»](https://t.me/g_jobbot)
 - [Telegram-канал «Profunctor Jobs»](https://t.me/profunctor_jobs)
 - [Telegram-канал «SuperJob - вакансии IT»](https://t.me/superjob_it)
-- [Telegram-канал «JS Jobs»](https://t.me/g_jobbot) — парсятся вакансии
+- [Telegram-канал «Вакансии в IT от hh.ru»](https://t.me/hh_vacancy_development)
+- [Telegram-канал «Remote IT (Inflow)»](https://t.me/Remoteit)
+- [Telegram-канал «careerspace»](https://t.me/careerspace)
+- [Telegram-канал «Distantsiya»](https://t.me/distantsiya)
+- [Telegram-канал «Работа для программистов»](https://t.me/progjob)
+- [Telegram-канал «SEO HR, digital-вакансии, офис и удалёнка»](https://t.me/seohr)
+- [Telegram-канал «Telegram IT Job»](https://t.me/myjobit)
+- [Telegram-канал «Антирабство-Fedoroff»](https://t.me/antirabstvoru)
 - [Telegram-чат «IT Вакансии {Разработка | QA | DevOps | Management}»](https://t.me/jobGeeks)
 - [Telegram-чат «Вакансии Backend/Frontend»](https://t.me/fordev)
+- [Telegram-чат «IT Jobs - работа/вакансии/резюме»](https://t.me/itjobs_ru)
 - [Каналы с вакансиями для IT специалистов](https://geekjob.ru/content/channels?fbclid=IwAR3_e2bLLfoA4YA5wapEFhw3duQB0jv5TWgB-fjYWiiw2AD1Hj8f843jYFo) — GeekJob
+
+JavaScript:
+- [Telegram-канал «JS Jobs»](https://t.me/g_jobbot) — парсятся вакансии
+- [Telegram-канал «Vue.js Jobs - вакансии и резюме»](https://t.me/vuejs_jobs_feed)
+- [Telegram-чат «JavaScript Jobs — чат»](https://t.me/javascript_jobs)
 
 PHP:
 - [Telegram-канал «Job for PHP»](https://t.me/jobforphp)
 - [Telegram-канал «PHP jobs — вакансии по PHP, Symfony, Laravel»](https://t.me/phpdevjob)
 - [Telegram-канал «Yii Вакансии»](https://t.me/yii_jobs)
+- [Telegram-чат «PHP — вакансии, поиск работы и аналитика»](https://t.me/php_jobs)
 - [Telegram-чат «Yii - вакансии, работа, фриланс»](https://t.me/yiijobs)
 
 Работа за рубежом:
