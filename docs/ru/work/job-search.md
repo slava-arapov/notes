@@ -65,6 +65,7 @@ title: Поиск работы
 - [Telegram-канал «SEO HR, digital-вакансии, офис и удалёнка»](https://t.me/seohr)
 - [Telegram-канал «Telegram IT Job»](https://t.me/myjobit)
 - [Telegram-канал «Антирабство-Fedoroff»](https://t.me/antirabstvoru)
+- [Telegram-канал «Работа в Сколково»](https://t.me/jobskolkovo)
 - [Telegram-чат «IT Вакансии {Разработка | QA | DevOps | Management}»](https://t.me/jobGeeks)
 - [Telegram-чат «Вакансии Backend/Frontend»](https://t.me/fordev)
 - [Telegram-чат «IT Jobs - работа/вакансии/резюме»](https://t.me/itjobs_ru)
