@@ -25,6 +25,37 @@ export const sidebarRu: SidebarConfig = {
       collapsible: true,
     },
     {
+      text: 'Пишу',
+      link: '/ru/writing/',
+      collapsible: true,
+      children: [
+        '/ru/writing/static-website-vuepress-github-pages.md',
+        '/ru/writing/digital-garden.md',
+      ],
+    },
+    {
+      text: 'Работа',
+      link: '/ru/work/',
+      collapsible: true,
+      children: [
+        '/ru/work/job-search.md',
+        '/ru/work/cv.md',
+        {
+          text: 'Собеседование',
+          link: '/ru/work/interview/',
+          collapsible: true,
+          children: [
+            '/ru/work/interview/trivia.md',
+            '/ru/work/interview/coding.md',
+            '/ru/work/interview/system-design.md',
+            '/ru/work/interview/behavioral.md',
+          ],
+        },
+        '/ru/work/offer.md',
+        '/ru/work/freelance.md',
+      ],
+    },
+    {
       text: 'Разработка',
       link: '/ru/software-engineering/',
       collapsible: true,
@@ -58,37 +89,6 @@ export const sidebarRu: SidebarConfig = {
           link: '/ru/software-engineering/php/',
           collapsible: true,
         },
-      ],
-    },
-    {
-      text: 'Пишу',
-      link: '/ru/writing/',
-      collapsible: true,
-      children: [
-        '/ru/writing/static-website-vuepress-github-pages.md',
-        '/ru/writing/digital-garden.md',
-      ],
-    },
-    {
-      text: 'Работа',
-      link: '/ru/work/',
-      collapsible: true,
-      children: [
-        '/ru/work/job-search.md',
-        '/ru/work/cv.md',
-        {
-          text: 'Собеседование',
-          link: '/ru/work/interview/',
-          collapsible: true,
-          children: [
-            '/ru/work/interview/trivia.md',
-            '/ru/work/interview/coding.md',
-            '/ru/work/interview/system-design.md',
-            '/ru/work/interview/behavioral.md',
-          ],
-        },
-        '/ru/work/offer.md',
-        '/ru/work/freelance.md',
       ],
     },
     {
