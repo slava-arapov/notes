@@ -2,6 +2,10 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-10-03 — Notes updated
+- **Updated**
+  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/)
+
 ## 2022-09-21 — Notes updated
 - **Updated**
   - [Поиск работы](/ru/work/job-search.md) 🇷🇺
