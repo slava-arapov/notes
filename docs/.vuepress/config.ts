@@ -48,6 +48,7 @@ export default defineUserConfig({
         navbar: navbarEn,
         // sidebar
         sidebar: sidebarEn,
+        sidebarDepth: 0,
         // page meta
         editLinkText: 'Edit this page on GitHub',
       },
@@ -63,6 +64,7 @@ export default defineUserConfig({
         selectLanguageAriaLabel: 'Russian',
         // sidebar
         sidebar: sidebarRu,
+        sidebarDepth: 0,
         // page meta
         editLinkText: 'Редактировать на GitHub',
         lastUpdatedText: 'Обновлено',
