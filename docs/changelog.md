@@ -4,6 +4,7 @@ title: Changelog
 ---
 ## 2022-10-19 — New notes
 - **Added**
+  - [API](/software-engineering/api.md) / [API (ru)](/ru/software-engineering/api.md) 🇷🇺
   - [Git](/software-engineering/git.md) / [Git](/ru/software-engineering/git.md) 🇷🇺
   - [Web](/software-engineering/Web) / [Web](/ru/software-engineering/Web) 🇷🇺
 

@@ -61,6 +61,11 @@ export const sidebarRu: SidebarConfig = {
       collapsible: true,
       children: [
         {
+          text: 'API',
+          link: '/ru/software-engineering/api.md',
+          collapsible: true,
+        },
+        {
           text: 'DevOps',
           link: '/ru/software-engineering/devops/',
           collapsible: true,

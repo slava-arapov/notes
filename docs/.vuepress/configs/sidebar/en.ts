@@ -12,6 +12,11 @@ export const sidebarEn: SidebarConfig = {
       collapsible: true,
       children: [
         {
+          text: 'API',
+          link: '/software-engineering/api.md',
+          collapsible: true,
+        },
+        {
           text: 'DevOps',
           link: '/software-engineering/devops/',
           collapsible: true,
