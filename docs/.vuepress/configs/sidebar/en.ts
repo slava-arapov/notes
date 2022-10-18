@@ -45,6 +45,11 @@ export const sidebarEn: SidebarConfig = {
           link: '/software-engineering/php/',
           collapsible: true,
         },
+        {
+          text: 'Web',
+          link: '/software-engineering/web/',
+          collapsible: true,
+        },
       ],
     },
     {

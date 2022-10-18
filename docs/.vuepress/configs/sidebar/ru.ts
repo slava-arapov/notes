@@ -94,6 +94,11 @@ export const sidebarRu: SidebarConfig = {
           link: '/ru/software-engineering/php/',
           collapsible: true,
         },
+        {
+          text: 'Web',
+          link: '/ru/software-engineering/web/',
+          collapsible: true,
+        },
       ],
     },
     {
