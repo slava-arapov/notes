@@ -7,6 +7,7 @@ title: Changelog
   - [API](/software-engineering/api.md) / [API (ru)](/ru/software-engineering/api.md) 🇷🇺
   - [Git](/software-engineering/git.md) / [Git](/ru/software-engineering/git.md) 🇷🇺
   - [Web](/software-engineering/Web) / [Web](/ru/software-engineering/Web) 🇷🇺
+  - [CSS](/software-engineering/front-end/html.md) / [CSS (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
 
 ## 2022-10-03 — Notes updated
 - **Updated**

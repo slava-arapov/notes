@@ -26,6 +26,7 @@ export const sidebarEn: SidebarConfig = {
           link: '/software-engineering/front-end/',
           collapsible: true,
           children: [
+            '/software-engineering/front-end/css.md',
             '/software-engineering/front-end/html.md',
             '/software-engineering/front-end/vue.md',
           ],

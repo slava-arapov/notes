@@ -75,6 +75,7 @@ export const sidebarRu: SidebarConfig = {
           link: '/ru/software-engineering/front-end/',
           collapsible: true,
           children: [
+            '/ru/software-engineering/front-end/css.md',
             '/ru/software-engineering/front-end/html.md',
             '/ru/software-engineering/front-end/vue.md',
           ],
