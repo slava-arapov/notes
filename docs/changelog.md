@@ -2,6 +2,10 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-10-19 — New notes
+- **Added**
+  - [Git](/software-engineering/git.md) / [Git](/ru/software-engineering/git.md) 🇷🇺
+
 ## 2022-10-03 — Notes updated
 - **Updated**
   - [Поиск работы](/ru/work/job-search.md) 🇷🇺

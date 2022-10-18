@@ -26,6 +26,11 @@ export const sidebarEn: SidebarConfig = {
           ],
         },
         {
+          text: 'Git',
+          link: '/software-engineering/git.md',
+          collapsible: true,
+        },
+        {
           text: 'GitHub',
           link: '/software-engineering/github.md',
           collapsible: true,
