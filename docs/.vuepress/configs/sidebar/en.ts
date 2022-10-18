@@ -20,6 +20,9 @@ export const sidebarEn: SidebarConfig = {
           text: 'DevOps',
           link: '/software-engineering/devops/',
           collapsible: true,
+          children: [
+            '/software-engineering/devops/docker.md',
+          ],
         },
         {
           text: 'Front end',

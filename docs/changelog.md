@@ -8,6 +8,7 @@ title: Changelog
   - [Git](/software-engineering/git.md) / [Git](/ru/software-engineering/git.md) 🇷🇺
   - [Web](/software-engineering/Web) / [Web](/ru/software-engineering/Web) 🇷🇺
   - [CSS](/software-engineering/front-end/html.md) / [CSS (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
+  - [Docker](/software-engineering/devops/docker.md) / [Docker (ru)](/ru/software-engineering/devops/docker.md) 🇷🇺
 
 ## 2022-10-03 — Notes updated
 - **Updated**
