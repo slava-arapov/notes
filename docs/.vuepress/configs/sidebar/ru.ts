@@ -25,7 +25,7 @@ export const sidebarRu: SidebarConfig = {
       collapsible: true,
     },
     {
-      text: 'Пишу',
+      text: 'Письмо',
       link: '/ru/writing/',
       collapsible: true,
       children: [
