@@ -4,6 +4,7 @@ title: Changelog
 ---
 ## 2022-10-19 — Notes updated
 - **Updated**
+  - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
   - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/) 🇷🇺
   - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
   - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md) 🇷🇺
