@@ -5,6 +5,8 @@ title: Front end
 # Front end
 
 ## Ссылки
+- [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web) — MDN Web Docs
+- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) — MDN Web Docs
 - [Дока](https://doka.guide/) — документация для разработчиков на человеческом языке
 - [Is it… Front-end or Front end or Frontend?](https://medium.com/@ist.stevkovski/is-it-front-end-or-front-end-or-frontend-3ae717cae4aa) — Ivan Stevkovski, Medium (2021)
 

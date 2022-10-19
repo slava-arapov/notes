@@ -2,6 +2,12 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-10-19 — Notes updated
+- **Updated**
+  - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/) 🇷🇺
+  - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
+  - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md) 🇷🇺
+
 ## 2022-10-18 — New notes
 - **Added**
   - [API](/software-engineering/api.md) / [API (ru)](/ru/software-engineering/api.md) 🇷🇺
