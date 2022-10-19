@@ -9,6 +9,7 @@ title: Changelog
   - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
   - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md) 🇷🇺
   - [Writing](/software-engineering/) / [Письмо](/ru/software-engineering/) 🇷🇺
+  - [Резюме](/ru/work/cv.md) 🇷🇺
 
 ## 2022-10-18 — New notes
 - **Added**
