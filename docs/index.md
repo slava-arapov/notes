@@ -3,6 +3,10 @@
 lang: en-US
 title: My notes
 description: My digital garden
+head:
+  - - meta
+    - name: yandex-verification
+      content: ceba201486ccc015
 ---
 # My notes 🌱
 
