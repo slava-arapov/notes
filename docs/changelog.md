@@ -2,6 +2,11 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-11-02 — New notes and updates
+- **Updated**
+  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
+  - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md) 🇷🇺
+
 ## 2022-10-19 — Notes updated
 - **Updated**
   - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
