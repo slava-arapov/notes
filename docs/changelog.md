@@ -5,7 +5,7 @@ title: Changelog
 ## 2022-11-02 — New notes and updates
 - **Updated**
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
-  - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md) 🇷🇺
+  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
   - [PHP](/software-engineering/php/index.md) / [PHP (ru)](/ru/software-engineering/php/index.md) 🇷🇺
 
 ## 2022-10-19 — Notes updated
@@ -13,7 +13,7 @@ title: Changelog
   - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
   - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/) 🇷🇺
   - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
-  - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md) 🇷🇺
+  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
   - [Writing](/software-engineering/) / [Письмо](/ru/software-engineering/) 🇷🇺
   - [Резюме](/ru/work/cv.md) 🇷🇺
 
@@ -68,7 +68,7 @@ title: Changelog
   - [GitHub](/software-engineering/github.md) / [GitHub (ru)](/ru/software-engineering/github.md) 🇷🇺
   - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/) 🇷🇺
   - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
-  - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md) 🇷🇺
+  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
   - [PHP](/software-engineering/php/index.md) / [PHP (ru)](/ru/software-engineering/php/index.md) 🇷🇺
 

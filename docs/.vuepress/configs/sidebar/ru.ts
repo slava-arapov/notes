@@ -80,7 +80,6 @@ export const sidebarRu: SidebarConfig = {
           children: [
             '/ru/software-engineering/front-end/css.md',
             '/ru/software-engineering/front-end/html.md',
-            '/ru/software-engineering/front-end/vue.md',
           ],
         },
         {
@@ -97,6 +96,9 @@ export const sidebarRu: SidebarConfig = {
           text: 'JavaScript',
           link: '/ru/software-engineering/javascript/',
           collapsible: true,
+          children: [
+            '/ru/software-engineering/javascript/vue.md',
+          ],
         },
         {
           text: 'PHP',
@@ -106,6 +108,12 @@ export const sidebarRu: SidebarConfig = {
         {
           text: 'Web',
           link: '/ru/software-engineering/web/',
+          collapsible: true,
+        },
+        '/ru/software-engineering/state-machines.md',
+        {
+          text: 'Тестирование ПО',
+          link: '/ru/software-engineering/software-testing/',
           collapsible: true,
         },
       ],

@@ -31,7 +31,6 @@ export const sidebarEn: SidebarConfig = {
           children: [
             '/software-engineering/front-end/css.md',
             '/software-engineering/front-end/html.md',
-            '/software-engineering/front-end/vue.md',
           ],
         },
         {
@@ -48,6 +47,9 @@ export const sidebarEn: SidebarConfig = {
           text: 'JavaScript',
           link: '/software-engineering/javascript/',
           collapsible: true,
+          children: [
+            '/software-engineering/javascript/vue.md',
+          ],
         },
         {
           text: 'PHP',
