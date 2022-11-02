@@ -16,6 +16,14 @@ title: Front end
 - [The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) — Udemy, $10 🔥
 - [React — The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) — Udemy, $10
 
+### Telegram channels
+- [Будни разработчика](https://t.me/htmlshit) — Авторский блог Senior JavaScript-разработчика из Хельсинки (Sergey Bekharsky) 🇷🇺
+- [For Web — фронтенд, дизайн, программирование](https://t.me/forwebdev) — Годнота для фронтендеров и дизайнеров 🇷🇺
+- [Веб-стандарты](https://t.me/webstandards_ru) — Еженедельный подкаст 🇷🇺
+- [Frontend Weekend](https://t.me/frontendweekend) — Еженедельный подкаст 🇷🇺
+- [Archakov Blog](https://t.me/archakovblog) 🇷🇺
+- [Владилен Минин](https://t.me/js_by_vladilen) 🇷🇺
+
 ### Events
 - [Front-End Conferences](https://github.com/frontendfront/front-end-conferences) — A list of upcoming front-end related conferences, Front-end Front, GitHub
 - [FrontendConf](https://frontendconf.ru/) — Professional front-end developers conference 🇷🇺
