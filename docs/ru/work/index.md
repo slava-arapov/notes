@@ -32,5 +32,6 @@ title: Работа
 ## Ссылки
 - [YouTube-канал Антона Назарова, карьерного консультанта](https://www.youtube.com/c/AntonNazarov_m0rtymerr)
 - [Boosty с доступом в сообщество «Осознанная Меркантильность»](https://boosty.to/m0rtymerr) — видео, чаты, мок-собесы, база знаний
+- [Телеграм-канал «Наташа о джунах и фронтенде»](https://t.me/natti_jun_front)
 - [Статья «Волчистость в IT»](https://boosty.to/m0rtymerr/posts/082000b6-c390-4d08-96b4-00c07d049d9c) — Антон Назаров, Ищщыен (2022)
 - [Какие ПРОГРАММИСТЫ зарабатывают больше других](https://www.youtube.com/watch?v=qwkTOb4d7ek) — Лёша Корепанов, YouTube (2021)

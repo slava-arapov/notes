@@ -9,6 +9,10 @@ title: Changelog
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
   - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
   - [PHP](/software-engineering/php/index.md) / [PHP (ru)](/ru/software-engineering/php/index.md) 🇷🇺
+  - [Работа](/ru/work/) 🇷🇺
+  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
+  - [Собеседование](/ru/work/interview/) 🇷🇺
+  - [Coding интервью](/ru/work/interview/coding.md) 🇷🇺
 
 ## 2022-10-19 — Notes updated
 - **Updated**

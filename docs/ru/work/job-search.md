@@ -29,6 +29,7 @@ title: Поиск работы
    - Рекрутерам из чатов
 
 ## Ссылки
+- [Blind](https://www.teamblind.com/) — Anonymous Professional Network
 - [А как собеседоваться?](https://vas3k.club/post/15768/) — Egor Biriukov, Вастрик.Клуб (2022)
 - [Тред с тредами про поиск работы](https://twitter.com/kozlovzxc/status/1511997412474249216) — Nikita Kozlov, Twitter (2022)
 - [Тред с ресурсами по тому, как и где искать работу, как составлять резюме](https://twitter.com/kozlovzxc/status/1511997412474249216) — Nikita Kozlov, Twitter (2022)
@@ -66,6 +67,7 @@ title: Поиск работы
 - [Telegram-канал «Telegram IT Job»](https://t.me/myjobit)
 - [Telegram-канал «Антирабство-Fedoroff»](https://t.me/antirabstvoru)
 - [Telegram-канал «Работа в Сколково»](https://t.me/jobskolkovo)
+- [Telegram-канал «Войти в Воронежское IT»](https://t.me/vrnit_job)
 - [Telegram-чат «IT Вакансии {Разработка | QA | DevOps | Management}»](https://t.me/jobGeeks)
 - [Telegram-чат «Вакансии Backend/Frontend»](https://t.me/fordev)
 - [Telegram-чат «IT Jobs - работа/вакансии/резюме»](https://t.me/itjobs_ru)

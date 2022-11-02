@@ -47,6 +47,8 @@ title: Coding интервью
 - [Grind 75](https://www.techinterviewhandbook.org/grind75) — Конструктор персонального плана
 - [Algorithms-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript) — Algorithms resolution in Javascript. Leetcode - Geeksforgeeks - Careercup, Ignacio Chiazzo Cardarello, Github
 - [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges) — Sadanand Pai, GitHub (2022)
+- [Ihor Codes](https://www.youtube.com/c/IhorCodes/videos) — LeetCode, YouTube Channel
+- [Telegram-чат «Leetcode heroes»](https://t.me/l33tcode)
 
 ### Ссылки на сервисы с задачами
 - [LeetCode](https://leetcode.com)
