@@ -6,6 +6,7 @@ title: Changelog
 - **Updated**
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
   - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md) 🇷🇺
+  - [PHP](/software-engineering/php/index.md) / [PHP (ru)](/ru/software-engineering/php/index.md) 🇷🇺
 
 ## 2022-10-19 — Notes updated
 - **Updated**
@@ -69,7 +70,7 @@ title: Changelog
   - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
   - [Vue.js](/software-engineering/front-end/vue.md) / [Vue.js (ru)](/ru/software-engineering/front-end/vue.md) 🇷🇺
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
-  - [PHP](/software-engineering/javascript/) / [PHP (ru)](/ru/software-engineering/javascript/) 🇷🇺
+  - [PHP](/software-engineering/php/index.md) / [PHP (ru)](/ru/software-engineering/php/index.md) 🇷🇺
 
 ## 2022-08-26 — New notes and translations
 - **Added** 
