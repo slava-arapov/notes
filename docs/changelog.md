@@ -5,6 +5,7 @@ title: Changelog
 ## 2022-11-02 — New notes and updates
 - **Added** 
   - [Software testing](/software-engineering/software-testing/) / [Software testing (ru)](/ru/software-engineering/software-testing/) 🇷🇺
+  - [State Machines](/software-engineering/state-machines.md) / [Машины состояний](/ru/software-engineering/state-machines.md) 🇷🇺
 
 - **Updated**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺

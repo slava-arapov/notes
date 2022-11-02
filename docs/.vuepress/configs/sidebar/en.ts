@@ -61,6 +61,7 @@ export const sidebarEn: SidebarConfig = {
           link: '/software-engineering/software-testing/',
           collapsible: true,
         },
+        '/software-engineering/state-machines.md',
         {
           text: 'Web',
           link: '/software-engineering/web/',
