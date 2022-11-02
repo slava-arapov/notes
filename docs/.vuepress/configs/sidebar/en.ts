@@ -57,6 +57,11 @@ export const sidebarEn: SidebarConfig = {
           collapsible: true,
         },
         {
+          text: 'Software Testing',
+          link: '/software-engineering/software-testing/',
+          collapsible: true,
+        },
+        {
           text: 'Web',
           link: '/software-engineering/web/',
           collapsible: true,
