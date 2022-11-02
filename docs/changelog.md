@@ -4,6 +4,7 @@ title: Changelog
 ---
 ## 2022-11-02 — New notes and updates
 - **Updated**
+  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
   - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/) 🇷🇺
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
   - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
