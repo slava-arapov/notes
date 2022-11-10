@@ -7,10 +7,15 @@ title: Разработка
 ## Ссылки
 - [DEV Community](https://dev.to/)
 - [Developer Roadmaps](https://roadmap.sh/) — Планы по развитию в веб-разработке от Kamran Ahmed
+- [Every Programmer Should Know 🤔]() — A collection of (mostly) technical things every software developer should know about, Metadevelopment
+ - [going-to-production](https://github.com/mtdvio/going-to-production) — A reference checklist for topics which should be covered before going to production, Metadevelopment
 
 ### Сервисы для обучения разработке
 - [freeCodeCamp](https://www.freecodecamp.org/) — отличный сервис, чтобы научиться разработке
 - [Exercism](https://exercism.org/) — Упражнения для практики языков с обратной связью от других специалистов
+
+### Курсы
+- [CourseHunter](https://coursehunter.net/) — Пиратские курсы по подписке
 
 ### YouTube-каналы
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos) — Web Development & Programming Tutorials

@@ -7,10 +7,15 @@ title: Software Engineering
 ## Links
 - [DEV Community](https://dev.to/)
 - [Developer Roadmaps](https://roadmap.sh/) — Roadmaps to becoming a developer by Kamran Ahmed
+- [Every Programmer Should Know 🤔]() — A collection of (mostly) technical things every software developer should know about, Metadevelopment
+ - [going-to-production](https://github.com/mtdvio/going-to-production) — A reference checklist for topics which should be covered before going to production, Metadevelopment
 
 ### Development study services
 - [freeCodeCamp](https://www.freecodecamp.org/) — nice and free service to start from 
 - [Exercism](https://exercism.org/) — Exercises to practice languages and get feedback from professionals
+
+### Courses
+- [CourseHunter](https://coursehunter.net/) — Pirate courses
 
 ### YouTube channels
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos) — Web Development & Programming Tutorials
