@@ -6,7 +6,11 @@ title: JavaScript
 
 ## Links
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) — MDN Web Docs
-- [Современный учебник JavaScript](https://learn.javascript.ru/) 🇷🇺
+- [JavaScript language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview) — For readers with background in other languages, MDN Web Docs
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) — A book series on JavaScript, Kyle Simpson
+- [Eloquent JavaScript](https://eloquentjavascript.net/) — A book about JavaScript, programming, and the wonders of the digital, Marijn Haverbeke (2018)
+- [State of JavaScript](https://stateofjs.com/en-us/) — The annual developer survey of the JavaScript ecosystem
 - [Understanding (all) JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools) — Dixin (2020)
 - [Понимание (всех) «модульных» форматов и инструментов JavaScript](https://habr.com/ru/post/501198/) — Dixin (2020) 🇷🇺
 - [Как эффективно обучаться программированию (про базовые вещи, языки, тесты, отладку, JS)](https://youtu.be/AgR-vFn094Y) — Кирилл Мокевнин, YouTube (2017) 🇷🇺
