@@ -10,7 +10,8 @@ title: CSS
 - [CSS Hell](https://csshell.dev/) — Коллекция распространенных ошибок с CSS и способов их исправления
 - [Telegram-чат «HTML/CSS — русскоговорящее сообщество»](https://t.me/css_ru)
 
-### Игры для обучения CSS Flexbox
-- [Flexbox Froggy](http://flexboxfroggy.com/#ru)
-- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
-- [Flexbox Defense](http://www.flexboxdefense.com/)
+### CSS Flexbox
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) — Josh Comeau, (2022)
+- [Flexbox Froggy](http://flexboxfroggy.com/#ru) — обучающая игра
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/) — обучающая игра
+- [Flexbox Defense](http://www.flexboxdefense.com/) — обучающая игра

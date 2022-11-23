@@ -15,6 +15,10 @@ title: JavaScript
 - [Понимание (всех) «модульных» форматов и инструментов JavaScript](https://habr.com/ru/post/501198/) — Dixin (2020) 🇷🇺
 - [Как эффективно обучаться программированию (про базовые вещи, языки, тесты, отладку, JS)](https://youtu.be/AgR-vFn094Y) — Кирилл Мокевнин, YouTube (2017) 🇷🇺
 
+### Event loop
+- [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) — YouTube (2014)
+- [Loupe](http://latentflip.com/loupe/) — Call stack/event loop/callback queue visualization, Philip Roberts
+
 ### Telegram channels
 - [Metarhia/NodeUA - Node.js Ukraine Community](https://t.me/metarhia) — Канал по Node.js сообщества Метархия 🇷🇺 🇺🇦
 

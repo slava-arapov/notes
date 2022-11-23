@@ -10,7 +10,8 @@ title: CSS
 - [CSS Hell](https://csshell.dev/) — Collection of common CSS mistakes, and how to fix them
 - [Telegram Chat «HTML/CSS — русскоговорящее сообщество»](https://t.me/css_ru) 🇷🇺
 
-### CSS Flexbox teaching games
-- [Flexbox Froggy](http://flexboxfroggy.com/)
-- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
-- [Flexbox Defense](http://www.flexboxdefense.com/)
+### CSS Flexbox
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) — Josh Comeau, (2022)
+- [Flexbox Froggy](http://flexboxfroggy.com/) — teaching game
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/) — teaching game
+- [Flexbox Defense](http://www.flexboxdefense.com/) — teaching game
