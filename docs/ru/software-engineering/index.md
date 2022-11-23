@@ -8,7 +8,10 @@ title: Разработка
 - [DEV Community](https://dev.to/)
 - [Developer Roadmaps](https://roadmap.sh/) — Планы по развитию в веб-разработке от Kamran Ahmed
 - [Every Programmer Should Know 🤔]() — A collection of (mostly) technical things every software developer should know about, Metadevelopment
- - [going-to-production](https://github.com/mtdvio/going-to-production) — A reference checklist for topics which should be covered before going to production, Metadevelopment
+- [Octoverse](https://octoverse.github.com/) - The state of open source software
+- [going-to-production](https://github.com/mtdvio/going-to-production) — A reference checklist for topics which should be covered before going to production, Metadevelopment
+- [RealWorld example apps](https://github.com/gothinkster/realworld) — The mother of all demo apps, Medium.com clones
+- [Рефакторинг на максималках](https://refactor-like-a-superhero.vercel.app/ru) — Саша Беспоясов (2022)
 
 ### Сервисы для обучения разработке
 - [freeCodeCamp](https://www.freecodecamp.org/) — отличный сервис, чтобы научиться разработке

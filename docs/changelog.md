@@ -2,6 +2,11 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-11-23 — Notes updated
+- **Updated**
+  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
+  - [API](/software-engineering/api.md) / [API (ru)](/ru/software-engineering/api.md) 🇷🇺
+
 ## 2022-11-02 — Notes updated
 - **Updated**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺

@@ -8,7 +8,10 @@ title: Software Engineering
 - [DEV Community](https://dev.to/)
 - [Developer Roadmaps](https://roadmap.sh/) — Roadmaps to becoming a developer by Kamran Ahmed
 - [Every Programmer Should Know 🤔]() — A collection of (mostly) technical things every software developer should know about, Metadevelopment
- - [going-to-production](https://github.com/mtdvio/going-to-production) — A reference checklist for topics which should be covered before going to production, Metadevelopment
+- [Octoverse](https://octoverse.github.com/) - The state of open source software
+- [going-to-production](https://github.com/mtdvio/going-to-production) — A reference checklist for topics which should be covered before going to production, Metadevelopment
+- [RealWorld example apps](https://github.com/gothinkster/realworld) — The mother of all demo apps, Medium.com clones
+- [Refactor Like a Superhero](https://refactor-like-a-superhero.vercel.app/ru) — Alex Bespoyasov (2022)
 
 ### Development study services
 - [freeCodeCamp](https://www.freecodecamp.org/) — nice and free service to start from 
