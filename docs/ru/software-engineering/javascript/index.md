@@ -21,6 +21,7 @@ title: JavaScript
 
 ### Telegram channels
 - [Metarhia/NodeUA - Node.js Ukraine Community](https://t.me/metarhia) — Канал по Node.js сообщества Метархия
+- [Beer JS Voronezh](https://t.me/beer_js_voronezh) — Чат
 
 ### События
 - [FrontendConf](https://frontendconf.ru/) — Профессиональная конференция фронтенд-разработчиков

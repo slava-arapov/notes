@@ -5,19 +5,21 @@ title: Changelog
 ## 2022-12-12 — Notes updated
 - **Updated**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
+  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
+  - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
 
 ## 2022-11-23 — Notes updated
 - **Updated**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
   - [API](/software-engineering/api.md) / [API (ru)](/ru/software-engineering/api.md) 🇷🇺
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
-  - [CSS](/software-engineering/front-end/html.md) / [CSS (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
+  - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
 
 ## 2022-11-02 — Notes updated
 - **Updated**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
-  - [CSS](/software-engineering/front-end/html.md) / [CSS (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
+  - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
 
 ## 2022-11-02 — New notes and updates
 - **Added** 
