@@ -12,6 +12,7 @@ title: Software Engineering
 - [going-to-production](https://github.com/mtdvio/going-to-production) — A reference checklist for topics which should be covered before going to production, Metadevelopment
 - [RealWorld example apps](https://github.com/gothinkster/realworld) — The mother of all demo apps, Medium.com clones
 - [Refactor Like a Superhero](https://refactor-like-a-superhero.vercel.app/ru) — Alex Bespoyasov (2022)
+- [Principles [Principles Wiki]](http://www.principles-wiki.net/principles:start)
 
 ### Development study services
 - [freeCodeCamp](https://www.freecodecamp.org/) — nice and free service to start from 
@@ -19,6 +20,7 @@ title: Software Engineering
 
 ### Courses
 - [CourseHunter](https://coursehunter.net/) — Pirate courses
+- [Educative](https://www.educative.io/) — Just-in-Time Learning for Developers
 
 ### YouTube channels
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos) — Web Development & Programming Tutorials

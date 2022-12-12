@@ -9,9 +9,11 @@ title: Разработка
 - [Developer Roadmaps](https://roadmap.sh/) — Планы по развитию в веб-разработке от Kamran Ahmed
 - [Every Programmer Should Know 🤔]() — A collection of (mostly) technical things every software developer should know about, Metadevelopment
 - [Octoverse](https://octoverse.github.com/) - The state of open source software
+- [PYPL PopularitY of Programming Language index]()https://pypl.github.io/PYPL.html
 - [going-to-production](https://github.com/mtdvio/going-to-production) — A reference checklist for topics which should be covered before going to production, Metadevelopment
 - [RealWorld example apps](https://github.com/gothinkster/realworld) — The mother of all demo apps, Medium.com clones
 - [Рефакторинг на максималках](https://refactor-like-a-superhero.vercel.app/ru) — Саша Беспоясов (2022)
+- [Principles [Principles Wiki]](http://www.principles-wiki.net/principles:start)
 
 ### Сервисы для обучения разработке
 - [freeCodeCamp](https://www.freecodecamp.org/) — отличный сервис, чтобы научиться разработке
@@ -19,6 +21,7 @@ title: Разработка
 
 ### Курсы
 - [CourseHunter](https://coursehunter.net/) — Пиратские курсы по подписке
+- [Educative](https://www.educative.io/) — Just-in-Time Learning for Developers
 
 ### YouTube-каналы
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos) — Web Development & Programming Tutorials

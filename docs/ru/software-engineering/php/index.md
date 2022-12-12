@@ -9,6 +9,7 @@ title: PHP
 - [JBZoo / Utils](https://github.com/JBZoo/Utils) — Collection of useful PHP functions, mini-classes, and snippets for every day, JBZoo, GitHub
 - [60+ чатов и ютуб-каналов для PHP-разработчика, которые советуют ребята из сообщества](https://habr.com/ru/company/skyeng/blog/534758/) — Хабр (2020)
 - [PHP-сообщества в России, Беларуси, Украине](https://phpcommunity.ru/)
+- [Modern PHP Cheat Sheet](https://front-line-php.com/cheat-sheet) — Front Line PHP, Spatie (2022)
 
 ### Telegram-каналы
 - [PHP Digest](https://t.me/phpdigest) — Новости, материалы и инструменты — раз в две недели
