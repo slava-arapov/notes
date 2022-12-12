@@ -7,6 +7,7 @@ title: Changelog
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
   - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
+  - [Здоровье](/ru/health/) 🇷🇺
 
 ## 2022-11-23 — Notes updated
 - **Updated**
