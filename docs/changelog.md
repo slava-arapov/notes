@@ -5,6 +5,7 @@ title: Changelog
 ## 2022-12-12 — Notes updated
 - **Updated**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
+  - [Git](/software-engineering/git.md) / [Git (ru)](/ru/software-engineering/git.md) 🇷🇺
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
   - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
   - [Здоровье](/ru/health/) 🇷🇺
