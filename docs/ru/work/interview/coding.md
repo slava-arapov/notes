@@ -23,7 +23,7 @@ title: Coding интервью
   - [Algorithm Design (Kleinberg, Tardos)](https://ict.iitk.ac.in/wp-content/uploads/CS345-Algorithms-II-Algorithm-Design-by-Jon-Kleinberg-Eva-Tardos.pdf)
 - Полистать старую книжку [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - Решать задачи с ЛитКода или аналогов с целью научиться считывать паттерны и определять тип задач (например, прорешав [набор задач](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)) до понимания
-- Можно провести мок-интервью на [interviewing.io](https://interviewing.io/) или со знакомыми.
+- Можно провести мок-интервью на [interviewing.io](https://interviewing.io/), [Pramp](https://www.pramp.com/), [CodeSignal](https://codesignal.com/) или со знакомыми.
 
 ### Поведение на интервью
 
@@ -49,6 +49,7 @@ title: Coding интервью
 - [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges) — Sadanand Pai, GitHub (2022)
 - [Ihor Codes](https://www.youtube.com/c/IhorCodes/videos) — LeetCode, YouTube Channel
 - [Telegram-чат «Leetcode heroes»](https://t.me/l33tcode)
+- [Coding interview blog archive](https://github.com/vitkarpov/coding-interviews-blog-archive/tree/main/posts) — Coding interview & system design problems (in Russian), Viktor Karpov, GitHub (2022)
 
 ### Ссылки на сервисы с задачами
 - [LeetCode](https://leetcode.com)

@@ -70,11 +70,16 @@ title: Собеседование
 - Офис (оценка по 10 бальной шкале)
 - Общее впечатление
 
+Ещё вопросы:
+- Какой будет первая задача?
+- Представьте, что вы наняли кандидата, прошёл год, и он достиг максимального успеха. Что он делал в течение года, чтобы вы сказали: «Да, это был идеальный найм»?
+
 ## Ссылки
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/) — Yangshun Tay
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.org/) — Yangshun Tay
 - [Interviews.school](https://interviews.school) — исчерпывающее руководство
 - [FAANG Interview. Бортовые заметки сообщества](https://faang-interview.github.io/)
+- [Outtalent Docs](https://docs.outtalent.com/)
 - [А как собеседоваться?](https://vas3k.club/post/15768/) — Egor Biriukov, Вастрик.Клуб (2022)
 - [Reverse interview](https://github.com/viraptor/reverse-interview) — Stanisław Pitucha, Github
 - [Что спросить на собеседовании (если я кандидат) — краткий гайд](https://vas3k.club/post/11645/) — Вастрик.Клуб (2022)

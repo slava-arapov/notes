@@ -30,6 +30,7 @@ title: Поиск работы
 
 ## Ссылки
 - [Blind](https://www.teamblind.com/) — Anonymous Professional Network
+- [Outtalent](https://outtalent.com/) — Career accelerator
 - [А как собеседоваться?](https://vas3k.club/post/15768/) — Egor Biriukov, Вастрик.Клуб (2022)
 - [Тред с тредами про поиск работы](https://twitter.com/kozlovzxc/status/1511997412474249216) — Nikita Kozlov, Twitter (2022)
 - [Тред с ресурсами по тому, как и где искать работу, как составлять резюме](https://twitter.com/kozlovzxc/status/1511997412474249216) — Nikita Kozlov, Twitter (2022)
@@ -39,6 +40,7 @@ title: Поиск работы
 - [Как найти первую работу в IT? Чек-лист для джуна](https://www.youtube.com/watch?v=oLZuCGuAnsM) — Сергей Немчинский, YouTube (2020)
 - [Пробовался в FAANG](https://docs.google.com/document/d/1c3xo5us0G8uMQVTWfm7xKpciRVvpj9p0YxmbW4pxmUI/edit) — отчёт из чата FAANG Interview
 - [Я программист. Как нужно вести соцсети, чтобы мне предложили работу ведущие компании?](https://rb.ru/opinion/programmist-socseti/) — Илья Бубнов из GeekBrains, RB.RU (2018)
+- [Тред: Неочевидные вау-компании: сложно попасть, но классно работать](https://vas3k.club/post/17395/) — Ivan But, Вастрик.Клуб (2022)
 
 ### Ресурсы для поиска работы
 
@@ -106,3 +108,10 @@ PHP:
 - [Telegram-канал «Трактор: как и куда улететь»](https://t.me/tractor_job)
 - [Telegram-чат «IT Evacuation / DIXY»](https://t.me/joinchat/AAAAAE3nUawZ4YX6AtDCFg)
 - [Global Tech+](https://docs.google.com/spreadsheets/d/1j-Oru60-jq8IxzztKEXX90fwK6DCT4_LuTS_EMLnct8/htmlview?fbclid=IwAR1Qys4AGWvNSJ_x8cbYG8_21jHfjY1-sD9E3aqGf57yx-ZcxOQkpPfFTiQ) — Google таблица с ресурсами по удалёнке и релокации
+
+Отзывы сотрудников о работодателях:
+- [Dream Job](https://dreamjob.ru/)
+- [Glassdoor](https://www.glassdoor.com/)
+- [О работе](https://orabote.xyz/) — белый и черный список работодателей и отзывы о компаниях
+- [AntiJob — Чёрный список работодателей](https://antijob.net/)
+- [Правда сотрудников](https://pravda-sotrudnikov.ru/)

@@ -8,6 +8,10 @@ title: Changelog
   - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
   - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
   - [Здоровье](/ru/health/) 🇷🇺
+  - [Работа](/ru/work/) 🇷🇺
+  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
+  - [Собеседование](/ru/work/interview/) 🇷🇺
+  - [Coding интервью](/ru/work/interview/coding.md) 🇷🇺
 
 ## 2022-11-23 — Notes updated
 - **Updated**

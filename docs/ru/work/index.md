@@ -35,3 +35,4 @@ title: Работа
 - [Телеграм-канал «Наташа о джунах и фронтенде»](https://t.me/natti_jun_front)
 - [Статья «Волчистость в IT»](https://boosty.to/m0rtymerr/posts/082000b6-c390-4d08-96b4-00c07d049d9c) — Антон Назаров, Ищщыен (2022)
 - [Какие ПРОГРАММИСТЫ зарабатывают больше других](https://www.youtube.com/watch?v=qwkTOb4d7ek) — Лёша Корепанов, YouTube (2021)
+- [Профсоюз работников IT](https://t.me/ruitunion) — Telegram-канал
