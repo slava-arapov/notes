@@ -60,6 +60,9 @@ export const sidebarEn: SidebarConfig = {
           text: 'Software Testing',
           link: '/software-engineering/software-testing/',
           collapsible: true,
+          children: [
+            '/software-engineering/software-testing/unit-javascript.md',
+          ],
         },
         '/software-engineering/state-machines.md',
         {

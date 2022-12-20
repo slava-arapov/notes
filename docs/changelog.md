@@ -2,6 +2,10 @@
 lang: en-US
 title: Changelog
 ---
+## 2022-12-20 — New notes and updates
+- **Added** 
+  - [JavaScript testing](/software-engineering/software-testing/unit-javascript.md) / [Тестирование JavaScript-приложений (ru)](/ru/software-engineering/software-testing/unit-javascript.md) 🇷🇺
+
 ## 2022-12-12 — Notes updated
 - **Updated**
   - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺

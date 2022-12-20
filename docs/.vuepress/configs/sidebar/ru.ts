@@ -115,6 +115,9 @@ export const sidebarRu: SidebarConfig = {
           text: 'Тестирование ПО',
           link: '/ru/software-engineering/software-testing/',
           collapsible: true,
+          children: [
+            '/ru/software-engineering/software-testing/unit-javascript.md',
+          ],
         },
       ],
     },
