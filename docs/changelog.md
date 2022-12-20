@@ -5,6 +5,9 @@ title: Changelog
 ## 2022-12-20 — New notes and updates
 - **Added** 
   - [JavaScript testing](/software-engineering/software-testing/unit-javascript.md) / [Тестирование JavaScript-приложений (ru)](/ru/software-engineering/software-testing/unit-javascript.md) 🇷🇺
+  
+- **Updated**
+  - [Здоровье](/ru/health/) 🇷🇺
 
 ## 2022-12-12 — Notes updated
 - **Updated**
