@@ -7,6 +7,7 @@ title: Changelog
   - [JavaScript testing](/software-engineering/software-testing/unit-javascript.md) / [Тестирование JavaScript-приложений (ru)](/ru/software-engineering/software-testing/unit-javascript.md) 🇷🇺
   
 - **Updated**
+  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
   - [Здоровье](/ru/health/) 🇷🇺
 
 ## 2022-12-12 — Notes updated

@@ -9,6 +9,7 @@ title: Vue.js
 - [Build a Laravel Vue SPA](https://laravelvuespa.com/) — Gareth Redfern, GitHub (2021)
 - [Understanding Vue middleware pipelines](https://blog.logrocket.com/vue-middleware-pipelines/) — 
 Dotun Jolaoso, LogRocket (2019)
+- [Reactivity: Vue 2 vs Vue 3](https://www.vuemastery.com/blog/Reactivity-Vue2-vs-Vue3/)
 - [How to Migrate from Vue CLI to Vite](https://vueschool.io/articles/vuejs-tutorials/how-to-migrate-from-vue-cli-to-vite/) — Daniel Kelly (2021)
 - [Telegram-чат «Vue.js — русскоговорящее сообщество»](https://t.me/vuejs_ru)
 - [Telegram-чат «Клуб Vue.js-разработчиков»](https://t.me/vuejs_club) — чат Ильи Климова
