@@ -2,7 +2,10 @@
 lang: en-US
 title: Changelog
 ---
-## 2023-01-09 — Notes updated
+## 2023-01-09 —New notes and updates
+- **Added** 
+  - [PHP testing](/software-engineering/software-testing/unit-php.md) / [Тестирование PHP-приложений (ru)](/ru/software-engineering/software-testing/unit-php.md) 🇷🇺
+
 - **Updated**
   - [Web](/software-engineering/web/index.md) / [Web (ru)](/ru/software-engineering/web/index.md) 🇷🇺
 

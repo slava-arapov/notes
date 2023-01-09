@@ -62,6 +62,7 @@ export const sidebarEn: SidebarConfig = {
           collapsible: true,
           children: [
             '/software-engineering/software-testing/unit-javascript.md',
+            '/software-engineering/software-testing/unit-php.md',
           ],
         },
         '/software-engineering/state-machines.md',

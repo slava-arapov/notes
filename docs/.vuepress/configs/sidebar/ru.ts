@@ -117,6 +117,7 @@ export const sidebarRu: SidebarConfig = {
           collapsible: true,
           children: [
             '/ru/software-engineering/software-testing/unit-javascript.md',
+            '/ru/software-engineering/software-testing/unit-php.md',
           ],
         },
       ],
