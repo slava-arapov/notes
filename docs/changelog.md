@@ -3,15 +3,22 @@ lang: en-US
 title: Changelog
 ---
 
+## 2023-01-23 — Notes updated
+
+- **Updated**
+  - [PHP](/software-engineering/php/index.md) / [PHP (ru)](/ru/software-engineering/php/index.md) 🇷🇺
+  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
+
 ## 2023-01-20 — Notes updated
 
 - **Updated**
-- [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
+  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
 
 ## 2023-01-09 — New notes and updates
 
 - **Added**
-- [PHP testing](/software-engineering/software-testing/unit-php.md) / [Тестирование PHP-приложений (ru)](/ru/software-engineering/software-testing/unit-php.md) 🇷🇺
+
+  - [PHP testing](/software-engineering/software-testing/unit-php.md) / [Тестирование PHP-приложений (ru)](/ru/software-engineering/software-testing/unit-php.md) 🇷🇺
 
 - **Updated**
   - [Web](/software-engineering/web/index.md) / [Web (ru)](/ru/software-engineering/web/index.md) 🇷🇺
