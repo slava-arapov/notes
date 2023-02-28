@@ -2,9 +2,11 @@
 lang: ru-RU
 title: Coding интервью
 ---
+
 # Coding интервью
 
 ## Алгоритмическая секция
+
 Алгоритмическая (whiteboard) секция может быть разной сложности, зависит от компании.
 
 Но к ней подготовиться просто, потому что задачи часто повторяются и похожи друг на друга.
@@ -16,6 +18,7 @@ title: Coding интервью
 ### Подготовка
 
 [Егор Бирюков предлагает](https://vas3k.club/post/15768/#Whiteboard-algoritmy) такой путь:
+
 - Пройти курс по алгоритмам, например [Специализация Структуры и алгоритмы данных](https://ru.coursera.org/specializations/data-structures-algorithms)
 - Изучить одну из книг:
   - [Грокаем алгоритмы](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/?sh=v_JSM2C-rg)
@@ -42,16 +45,19 @@ title: Coding интервью
 :::
 
 ## Ссылки
+
 - [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) — задачи, разбитые по группам (2019)
 - [Coding interview study plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/) — обновлённый список (2022)
 - [Grind 75](https://www.techinterviewhandbook.org/grind75) — Конструктор персонального плана
 - [Algorithms-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript) — Algorithms resolution in Javascript. Leetcode - Geeksforgeeks - Careercup, Ignacio Chiazzo Cardarello, Github
 - [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges) — Sadanand Pai, GitHub (2022)
+- [Собеседования на JavaScript. Как не облажаться?](https://www.youtube.com/watch?v=RLgUEEAgvMg) — Реализация функций filter, map, some, Ivan Petrychenko (2021)
 - [Ihor Codes](https://www.youtube.com/c/IhorCodes/videos) — LeetCode, YouTube Channel
 - [Telegram-чат «Leetcode heroes»](https://t.me/l33tcode)
 - [Coding interview blog archive](https://github.com/vitkarpov/coding-interviews-blog-archive/tree/main/posts) — Coding interview & system design problems (in Russian), Viktor Karpov, GitHub (2022)
 
 ### Ссылки на сервисы с задачами
+
 - [LeetCode](https://leetcode.com)
 - [Codewars](https://www.codewars.com)
 - [HackerRank](https://www.hackerrank.com)

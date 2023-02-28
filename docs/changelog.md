@@ -3,6 +3,13 @@ lang: en-US
 title: Changelog
 ---
 
+## 2023-02-28 — Notes updated
+
+- **Updated**
+  - [Работа](/ru/work/) 🇷🇺
+  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
+  - [Coding интервью](/ru/work/interview/coding.md) 🇷🇺
+
 ## 2023-01-23 — Notes updated
 
 - **Updated**
