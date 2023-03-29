@@ -3,6 +3,11 @@ lang: en-US
 title: Changelog
 ---
 
+## 2023-03-29 — Notes updated
+
+- **Updated**
+  - [API](/software-engineering/api.md) / [API (ru)](/ru/software-engineering/api.md) 🇷🇺
+
 ## 2023-02-28 — Notes updated
 
 - **Updated**
